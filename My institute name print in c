@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+print("Amar computer point institute of technology");
+return 0;
+}
