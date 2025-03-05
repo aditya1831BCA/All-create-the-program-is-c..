@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
-print("Amar computer point institute of technology");
+printf("Amar computer point institute of technology");
+printf("This is my new change");
 return 0;
 }
